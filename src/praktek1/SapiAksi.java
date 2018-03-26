@@ -32,6 +32,13 @@ public class SapiAksi {
         Pak_RT.Bentuk_Sapi="Sedang";
         Pak_RT.Gigi_Sapi="Gigi Rahang";
         Pak_RT.Ekor_Sapi="Ekor Berbulu";
+        
+        Ku.cetakInfo();
+        System.out.println();
+        Pak_Lurah.cetakInfo();
+        System.out.println();
+        Pak_RT.cetakInfo();
+        System.out.println();
     }
     
 }
