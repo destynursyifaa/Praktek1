@@ -11,7 +11,9 @@ package praktek1;
  */
 public class SapiAksi {
     public static void main(String[] args) {
-        
+        Sapi Ku = new Sapi();
+        Sapi Pak_Lurah = new Sapi();
+        Sapi Pak_RT = new Sapi();
     }
     
 }
